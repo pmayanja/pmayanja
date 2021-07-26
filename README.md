@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pmayanja
+- 👋 Hi, I’m Peter Mayanja.
 - 👀 I’m a cybersecurity engineer.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on any interesting cybersecurity projects.
